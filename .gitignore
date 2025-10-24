@@ -1,0 +1,25 @@
+#Java
+*.class
+*.log
+*.jar
+*.war
+*.ear
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+build/
+
+# IDEs y gradle/maven (por si acaso)
+.idea/
+*.iml
+.vscode/
+.settings/
+.gradle/
+target/
+out/
+bin/
+
+# SO
+.DS_Store
+Thumbs.db
