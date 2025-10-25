@@ -23,3 +23,5 @@ bin/
 # SO
 .DS_Store
 Thumbs.db
+/TP7Herencia/nbproject/private/
+/TP8ecommerce/nbproject/private/
